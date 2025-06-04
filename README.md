@@ -268,9 +268,9 @@ new_prediction.argmax()
 
 test_data[333][1]
 ```
-### Name: DIVYA K
+### Name: VINOTHINI T
 
-### Register Number: 212222230035
+### Register Number: 212223040245
 
 ### OUTPUT
 
